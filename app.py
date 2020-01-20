@@ -1,4 +1,4 @@
-"""Main app file"""
+"""Main application file"""
 from flask import Flask
 app = Flask(__name__)
 

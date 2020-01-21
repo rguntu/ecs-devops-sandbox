@@ -6,7 +6,7 @@
     "containerDefinitions": [
         {
             "name": "ecs-devops-sandbox",
-            "image": "<YOUR_ECR_REPOSITORY_NAME>:00000",
+            "image": "ecs-devops-sandbox-repository:00000",
             "resourceRequirements": null,
             "essential": true,
             "portMappings": [
